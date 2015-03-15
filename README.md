@@ -7,5 +7,6 @@
 ##脚本系列
 
 深入了解JavaScript（译）
+ES6替代CoffeeScript（译）
 
 ##重构系列
