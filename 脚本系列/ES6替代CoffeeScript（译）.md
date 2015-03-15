@@ -63,14 +63,14 @@ console.log(blake.name);
 
 如果你使用过其他库或框架，注意他们源代码中的类和ES6的不同：
 
-*函数名之后没有分号
-*没有“function”关键字
-*类中的每一小项之间没有逗号
+* 函数名之后没有分号
+* 没有“function”关键字
+* 类中的每一小项之间没有逗号
 
 我们可以使用getters 和 setters 操作`name`。
 
 ## 插入
-我们常常希望JS有更强大的字符串处理功能，现在E3S6引入了 [template strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)。现在让我们看看 CoffeeScript 字符串、JS 字符串和 template strings的区别。
+我们常常希望JS有更强大的字符串处理功能，现在ES6引入了 [template strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)。现在让我们看看 CoffeeScript 字符串、JS 字符串和 template strings的区别。
 
 CoffeeScript：
 
@@ -137,10 +137,10 @@ $("button").on("click", () => {
 ### 默认参数
 CoffeeScript
 
-···
+```
 hello = (name = "guest") ->
   alert(name)
-···
+```
 
 ES6
 
