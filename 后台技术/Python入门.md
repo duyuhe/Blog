@@ -1,4 +1,6 @@
-[Python官网](https://www.python.org/ )\n   [运行步骤](http://pythontutor.com/):可以一行一行的进行解读、图文结合
+[Python官网](https://www.python.org/ )
+
+[运行步骤](http://pythontutor.com/):可以一行一行的进行解读、图文结合
 
 ##基本介绍
 
