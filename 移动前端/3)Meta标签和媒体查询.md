@@ -65,7 +65,7 @@ function gestureStart(){
 
 
 ## 媒体查询
-根据设备视图宽度来进行排版。
+根据设备视图宽度来进行排版。<br/>
 [媒体类型Media Types 及响应式网页设计](http://www.w3cfuns.com/blog-5425789-5397618.html)<br/>
 [移动设备媒体查询参数](http://nmsdvid.com/snippets/)
 
