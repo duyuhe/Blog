@@ -51,5 +51,5 @@ window.addEventListener(“onorientationchange” in window ? “orientationchan
 
 
 ## 更多
-[http://html5test.com/](检测当前浏览器的对HTML5特性的支持度)
+[http://html5test.com/](检测当前浏览器的对HTML5特性的支持度)<br/>
 [modernizr.js ](兼容检测库)
