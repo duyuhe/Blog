@@ -46,7 +46,8 @@ window.addEventListener(“onorientationchange” in window ? “orientationchan
 `border-radius`
 
 
-处理以上这些内容，还有许多新特性，如果想知道更多，请仔细研究文档。<br/>
+
+除了以上这些内容，还有许多新特性，如果想知道更多，请仔细研究文档。<br/>
 
 
 ## 更多
