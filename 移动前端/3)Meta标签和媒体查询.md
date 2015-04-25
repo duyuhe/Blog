@@ -51,7 +51,7 @@ function gestureStart(){
 <!-- Symbian 60 -->
 <link rel="shortcut icon" href="img/1/apple-touch-icon.png" />
 ````
-上面的语句是否可以合并：No;并且注意前两项推荐图标尺寸144*144,小于144会被拉伸。
+上面的语句是否可以合并：No;并且注意前两项，推荐图标尺寸144*144,小于144会被拉伸。
 
 设置完图标之后，让网站可以全屏打开
 #### 全屏打开
@@ -66,18 +66,18 @@ function gestureStart(){
 
 ## 媒体查询
 根据设备视图宽度来进行排版。
-[媒体类型Media Types 及响应式网页设计](http://www.w3cfuns.com/blog-5425789-5397618.html)
+[媒体类型Media Types 及响应式网页设计](http://www.w3cfuns.com/blog-5425789-5397618.html)<br/>
 [移动设备媒体查询参数](http://nmsdvid.com/snippets/)
 
 
 
 ## 更多
-[viewport控制](http://segmentfault.com/a/1190000002685485)
-[WP 上IE实现“device-width”效果](http://blogs.msdn.com/b/iemobile/archive/2010/11/22/the-ie-mobile-viewport-on-windows-phone-7.aspx)
-[Safari  viewport问题](http://developer.apple.com/library/safari/#documentation/appleapplications/reference/saffarihtmlref/articles/metatags.html)
-[黑莓](http://docs.blackberry.com/en/developers/deliverables/4305blackberry_browser-4.6.0-us.pdf)
-[关于触摸图标](http://mathiasbynens.be/notes/touch-icons)
-[苹果公司文档](http://developer.apple.com/library/safari/#documentation/appleapplications/reference/safariwebcontent/configuringwebapplications/configuringwebapplications.html)
-[whatwg官网](http://www.whatwg.org/specs/web-apps/current-work/multipage/links.html#rel-icon)
-[创建苹果图标指引](http://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/iconsimages/iconsimages.html#//apple_ref/doc/uid/tp40006556-ch14-sw11)
+[viewport控制](http://segmentfault.com/a/1190000002685485)<br/>
+[WP 上IE实现“device-width”效果](http://blogs.msdn.com/b/iemobile/archive/2010/11/22/the-ie-mobile-viewport-on-windows-phone-7.aspx)<br/>
+[Safari  viewport问题](http://developer.apple.com/library/safari/#documentation/appleapplications/reference/saffarihtmlref/articles/metatags.html)<br/>
+[黑莓](http://docs.blackberry.com/en/developers/deliverables/4305blackberry_browser-4.6.0-us.pdf)<br/>
+[关于触摸图标](http://mathiasbynens.be/notes/touch-icons)<br/>
+[苹果公司文档](http://developer.apple.com/library/safari/#documentation/appleapplications/reference/safariwebcontent/configuringwebapplications/configuringwebapplications.html)<br/>
+[whatwg官网](http://www.whatwg.org/specs/web-apps/current-work/multipage/links.html#rel-icon)<br/>
+[创建苹果图标指引](http://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/iconsimages/iconsimages.html#//apple_ref/doc/uid/tp40006556-ch14-sw11)<br/>
 [Safari图标指引](http://developer.apple.com/library/safari/#documentation/userexperience/conceptual/mobilehig/iconsimages/iconsimages.html#//apple_ref/doc/uid/tp40006556-ch14)
