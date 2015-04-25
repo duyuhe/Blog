@@ -3,7 +3,7 @@
 ## HTML5
 
 #### 语义化标签
-<header>/<footer>等等<br/>
+header/footer等等<br/>
 部分标签使用的时候需要将其设置成块`display:block;`
 
 #### canvas
