@@ -20,7 +20,21 @@
 
 #### 屏幕方向
 浏览器或设备一般提供禁止屏幕切换功能，开发者可以自己设置网页显示方向。<br/>
-W3C:[The Screen Orientation API](http://www.w3.org/TR/screen-orientation/)
+W3C:[The Screen Orientation API](http://www.w3.org/TR/screen-orientation/)<br/>
+````
+function hengshuping(){
+   if(window.orientation==180||window.orientation==0){
+       alert(“竖屏状态！”)
+   }
+   if(window.orientation==90||window.orientation==-90){
+       alert(“横屏状态！”)
+   }
+}
+
+window.addEventListener(“onorientationchange” in window ? “orientationchange” : “resize”, hengshuping, false);
+````
+[jQuery Mobile orientationchange 事件](http://www.w3cschool.cc/jquerymobile/event-orientationchange.html)
+
 
 
 ## CSS3
