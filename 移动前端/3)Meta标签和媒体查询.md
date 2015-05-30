@@ -65,7 +65,21 @@ function gestureStart(){
 
 
 ## 媒体查询
-根据设备视图宽度来进行排版。<br/>
+根据设备视图宽度来进行排版。
+````
+<link rel="stylesheet" media="all and (orientation:portrait)" href="portrait.css">    // 竖放加载
+<link rel="stylesheet" media="all and (orientation:landscape)"href="landscape.css">   // 横放加载
+
+//竖屏时使用的样式
+<style media="all and (orientation:portrait)" type="text/css">
+    #landscape { display: none; }
+</style>
+
+//横屏时使用的样式
+<style media="all and (orientation:landscape)" type="text/css">
+    #portrait { display: none; }
+</style>
+````
 [媒体类型Media Types 及响应式网页设计](http://www.w3cfuns.com/blog-5425789-5397618.html)<br/>
 [移动设备媒体查询参数](http://nmsdvid.com/snippets/)
 
