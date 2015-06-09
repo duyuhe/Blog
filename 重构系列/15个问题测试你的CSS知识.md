@@ -6,7 +6,7 @@
 * [中级CSS](#中级css)
 * [先进CSS](#先进css)
 
-这是前面[15个HTML测试问题]()的后续。
+这是前面[15个HTML测试问题](https://github.com/duyuhe/Blog/blob/master/%E9%87%8D%E6%9E%84%E7%B3%BB%E5%88%97/15%E4%B8%AA%E9%97%AE%E9%A2%98%E6%B5%8B%E8%AF%95%E4%BD%A0%E7%9A%84HTML%E7%9F%A5%E8%AF%86.md)的后续。
 
 ![tests](http://cdn.sixrevisions.com/0519-02-css-questions.jpg)
 
