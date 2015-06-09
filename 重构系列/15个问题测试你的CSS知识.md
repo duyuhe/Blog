@@ -11,4 +11,13 @@
 ![tests](http://cdn.sixrevisions.com/0519-02-css-questions.jpg)
 
 ## 基础CSS
-1.
+#### 1.下列哪个不是一个有效的边框样式属性值?
+* dotted
+* inset
+* glazed
+* groove
+* solid
+
+答案：  <br/>
+![border](http://cdn.sixrevisions.com/0519-01-border-style-property-values.png)
+[w3.org:border-style规范]()http://www.w3.org/TR/css3-border/#the-border-style
