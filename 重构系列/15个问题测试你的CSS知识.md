@@ -19,6 +19,6 @@
 * solid
 
 答案：  <br/>
-`glazed` 
+`glazed` <br/>
 ![border](http://cdn.sixrevisions.com/0519-01-border-style-property-values.png)<br/>
 [w3.org:border-style规范](http://www.w3.org/TR/css3-border/#the-border-style)
