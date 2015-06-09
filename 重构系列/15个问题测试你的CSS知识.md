@@ -67,7 +67,7 @@ cyan是颜色，但不是[基本颜色关键词](http://www.w3.org/TR/css3-color
 相关：[CSS颜色](http://sixrevisions.com/css/css-colors/)
 
 
-### 6.font-size属性有4个有效值，除inherit、normal和italic外还有什么值？
+### 6.font-style属性有4个有效值，除inherit、normal和italic外还有什么值？
 
 #### 答案：
 `oblique` <br/>
