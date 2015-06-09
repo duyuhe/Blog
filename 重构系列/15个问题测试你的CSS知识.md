@@ -18,6 +18,7 @@
 * glazed
 * groove
 * solid
+
 #### 答案：
 `glazed` <br/>
 ![border](http://cdn.sixrevisions.com/0519-01-border-style-property-values.png)<br/>
@@ -29,12 +30,14 @@
 * dm
 * em
 * mm
+
 #### 答案：
 `dm` <br/>
 `cm``mm`是[绝对长度单位](http://www.w3.org/TR/css3-values/#absolute-lengths)，`em`是[字体相对单位](http://www.w3.org/TR/css3-values/#font-relative-lengths)。
 
 
 ### 3.什么选择器可以作用在页面上所有元素？
+
 #### 答案：
 `*`，例子： <br/>
 ````
@@ -44,6 +47,7 @@
 
 
 ### 4.哪个属性允许元素隐藏并占据页面空间？
+
 #### 答案：
 ````
 visibility:hidden   or   opacity:0
