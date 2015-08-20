@@ -66,7 +66,7 @@ IE9
 
 #### 答案：
 `Extensible Markup Language (XML).` <br/>
-相关：[CML规范](http://www.w3.org/TR/REC-xml/)
+相关：[xML规范](http://www.w3.org/TR/REC-xml/)
 
 
 ### 8.哪个HTML5元素开头是“K”？
@@ -80,7 +80,7 @@ keygen
 
 #### 答案：
 ````
-license
+license   
 
 <main>
     <img src="freephoto.gif" />
