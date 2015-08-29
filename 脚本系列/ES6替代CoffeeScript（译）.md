@@ -199,3 +199,7 @@ set name(name) {
 ES6的设计模式和CoffeeScript非常类似，本文只是介绍了其一小部分特性。
 
 如果想更深了解ES6，就在项目中使用他吧。
+
+[Pony Foo](http://ponyfoo.com/) -- ES6相关文章
+
+[ES6 In Depth Articles](https://hacks.mozilla.org/category/es6-in-depth/) --Mozilla下 ES6分类
