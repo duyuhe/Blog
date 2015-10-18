@@ -24,7 +24,8 @@ Meta标签和媒体查询<br/>
 
 深入了解JavaScript（译）<br/>
 ES6替代CoffeeScript（译）<br/>
-10个ES6使用技巧（译）
+10个ES6使用技巧（译）<br/>
+JavaScript( jQuery ) setTimeout() 定时器
 
 
 ##重构系列
