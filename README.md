@@ -23,7 +23,8 @@ Meta标签和媒体查询<br/>
 ##脚本系列
 
 深入了解JavaScript（译）<br/>
-ES6替代CoffeeScript（译）
+ES6替代CoffeeScript（译）<br/>
+10个ES6使用技巧（译）
 
 
 ##重构系列
