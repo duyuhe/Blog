@@ -1,5 +1,7 @@
 [Python官网](https://www.python.org/ )
 
+[Learn Python the Hard Way(3rd Edition)](http://learnpythonthehardway.org/book/)
+
 [运行步骤](http://pythontutor.com/):可以一行一行的进行解读、图文结合
 
 ##基本介绍
