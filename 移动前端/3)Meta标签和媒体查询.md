@@ -86,7 +86,7 @@ function gestureStart(){
 
 
 ## 更多
-|相关知识||||
+|相关知识|②|③|④|
 |----|----|----|----|
 |[viewport控制](http://segmentfault.com/a/1190000002685485)|[WP 上IE实现“device-width”效果](http://blogs.msdn.com/b/iemobile/archive/2010/11/22/the-ie-mobile-viewport-on-windows-phone-7.aspx)|[Safari  viewport问题](http://developer.apple.com/library/safari/#documentation/appleapplications/reference/saffarihtmlref/articles/metatags.html)|[黑莓](http://docs.blackberry.com/en/developers/deliverables/4305blackberry_browser-4.6.0-us.pdf)<br/>
 [关于触摸图标](http://mathiasbynens.be/notes/touch-icons)|
