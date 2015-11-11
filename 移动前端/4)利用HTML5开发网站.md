@@ -11,6 +11,7 @@ header/footer等等<br/>
 
 #### 应用缓存
 让网站部分存储在[本地](http://www.w3cfuns.com/blog-5425789-5397631.html)，下次启动的时候可以加快访问。
+* [Building an offline page for theguardian.com](https://www.theguardian.com/info/developer-blog/2015/nov/04/building-an-offline-page-for-theguardiancom)
 
 #### 数据
 新提供了[Web storage](http://www.w3cschool.cc/html/html5-webstorage.html)保存数据：SessionStorage(浏览器关闭清除)与localStorage（一直存在，除非手动清除）。
