@@ -126,4 +126,5 @@ jQuery提供了遍历同级元素、子元素等的方法，js也可以做到这
 ##结论
 根据自己的工作需求决定是否使用jQuery等库。
 ------------------------------------------------
-福利：   [The Right Way](http://jstherightway.org/)  js代码规范、各种工具库还有推荐大牛
+福利：   [The Right Way](http://jstherightway.org/)  js代码规范、各种工具库还有推荐大牛 <br/>
+文章：   [DOM的技巧和技术:父元素,子元素,兄弟元素](http://www.sitepoint.com/dom-tips-techniques-parent-child-siblings/?utm_campaign=Front%2BEnd%2BDev%2BWeekly&utm_medium=web&utm_source=Front_End_Dev_Weekly_79)
